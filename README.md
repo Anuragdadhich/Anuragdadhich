@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,100:FF9900&height=120&section=header&text=Anurag%20Dadhich&fontSize=36&fontColor=ffffff&fontAlignY=60&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:85B7EB,100:E6F1FB&height=120&section=header&text=Anurag%20Dadhich&fontSize=36&fontColor=042C53&fontAlignY=60&animation=fadeIn" width="100%"/>
 
-# 안녕하세요 👋 I'm Anurag Dadhich
+# 👋 Hi, I'm Anurag Dadhich
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=FF9900&center=true&vCenter=true&width=500&lines=Cloud+Developer+%E2%98%81%EF%B8%8F;AWS+Data+Engineer+in+progress;Full+Stack+Developer;Building+in+public+%F0%9F%9A%80;Jaipur+%F0%9F%87%AE%F0%9F%87%B3+%E2%86%92+Seoul+%F0%9F%87%B0%F0%9F%87%B7+%E2%86%92+Remote+%F0%9F%8C%8F" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=185FA5&center=true&vCenter=true&width=500&lines=Cloud+Developer+%E2%98%81%EF%B8%8F;AWS+Data+Engineer+in+progress;Full+Stack+Developer;Building+in+public+%F0%9F%9A%80;Based+in+Jaipur%2C+India+%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anurag_Dadhich-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-dadhich-b33087223/)
-[![GitHub](https://img.shields.io/badge/GitHub-Anuragdadhich-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anuragdadhich)
-[![AWS](https://img.shields.io/badge/AWS-Cloud_Developer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anurag_Dadhich-185FA5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-dadhich-b33087223/)
+[![GitHub](https://img.shields.io/badge/GitHub-Anuragdadhich-0C447C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anuragdadhich)
+[![AWS](https://img.shields.io/badge/AWS-Cloud_Developer-378ADD?style=for-the-badge&logo=amazonaws&logoColor=white)](https://aws.amazon.com)
 
 </div>
 
@@ -24,7 +24,7 @@ location    : Jaipur, India 🇮🇳
 company     : Zentix Services (Founder)
 focus       : AWS Cloud · Data Engineering · Full Stack
 learning    : Solutions Architect Associate (SAA-C03)
-goal        : Data engineering roles — Seoul 🇰🇷 · Tokyo 🇯🇵 · Remote 🌏
+goal        : Data engineering roles — Remote 🌏
 available   : Open to remote opportunities
 ```
 
@@ -36,13 +36,13 @@ available   : Open to remote opportunities
 
 ### 🎵 Spotify AWS Analytics Pipeline
 
-![AWS](https://img.shields.io/badge/Amazon_S3-569A31?style=flat-square&logo=amazons3&logoColor=white)
-![Glue](https://img.shields.io/badge/AWS_Glue-FF9900?style=flat-square&logo=amazonaws&logoColor=white)
-![Athena](https://img.shields.io/badge/Amazon_Athena-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![QuickSight](https://img.shields.io/badge/QuickSight-8C4FFF?style=flat-square&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_S3-378ADD?style=flat-square&logo=amazons3&logoColor=white)
+![Glue](https://img.shields.io/badge/AWS_Glue-185FA5?style=flat-square&logo=amazonaws&logoColor=white)
+![Athena](https://img.shields.io/badge/Amazon_Athena-0C447C?style=flat-square&logo=amazonaws&logoColor=white)
+![QuickSight](https://img.shields.io/badge/QuickSight-85B7EB?style=flat-square&logo=amazonaws&logoColor=white)
 ![Cost](https://img.shields.io/badge/Cost-$0_Free_Tier-2ea44f?style=flat-square)
-![Time](https://img.shields.io/badge/Built_in-1_Day-blue?style=flat-square)
-![Level](https://img.shields.io/badge/Level-Beginner-orange?style=flat-square)
+![Time](https://img.shields.io/badge/Built_in-1_Day-378ADD?style=flat-square)
+![Level](https://img.shields.io/badge/Level-Beginner-85B7EB?style=flat-square)
 
 </div>
 
@@ -72,11 +72,11 @@ available   : Open to remote opportunities
 
 **☁️ Cloud & AWS**
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
-![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
-![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
-![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0C447C?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-185FA5?style=for-the-badge&logo=amazonec2&logoColor=white)
+![S3](https://img.shields.io/badge/S3-378ADD?style=for-the-badge&logo=amazons3&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-85B7EB?style=for-the-badge&logo=awslambda&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-B5D4F4?style=for-the-badge&logo=amazonaws&logoColor=0C447C)
 
 **💻 Development**
 
@@ -107,10 +107,10 @@ available   : Open to remote opportunities
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anuragdadhich&show_icons=true&theme=github_dark&hide_border=true&count_private=true&title_color=FF9900&icon_color=FF9900" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragdadhich&layout=compact&theme=github_dark&hide_border=true&title_color=FF9900" width="40%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Anuragdadhich&show_icons=true&theme=default&hide_border=true&count_private=true&title_color=185FA5&icon_color=378ADD&text_color=0C447C&bg_color=E6F1FB" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuragdadhich&layout=compact&theme=default&hide_border=true&title_color=185FA5&text_color=0C447C&bg_color=E6F1FB" width="40%"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragdadhich&theme=github-dark-blue&hide_border=true&ring=FF9900&fire=FF9900&currStreakLabel=FF9900" width="55%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Anuragdadhich&theme=highcontrast&hide_border=true&ring=378ADD&fire=185FA5&currStreakLabel=0C447C&background=E6F1FB&dates=185FA5&stroke=85B7EB&sideLabels=0C447C&sideNums=378ADD&currStreakNum=185FA5" width="55%"/>
 
 </div>
 
@@ -133,7 +133,7 @@ available   : Open to remote opportunities
 I share everything I learn publicly.
 If you're learning AWS or building data pipelines — let's connect.
 
-[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-dadhich-b33087223/)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-185FA5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-dadhich-b33087223/)
 
 </div>
 
@@ -141,8 +141,8 @@ If you're learning AWS or building data pipelines — let's connect.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:232F3E&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E6F1FB,100:85B7EB&height=80&section=footer" width="100%"/>
 
-<sub>🇮🇳 Building from Jaipur · 🇰🇷 Open to Seoul · 🇯🇵 Open to Tokyo · 🌏 Open to Remote</sub>
+<sub>🇮🇳 Building from Jaipur, India</sub>
 
 </div>
