@@ -21,7 +21,7 @@
 ```yaml
 name        : Anurag Dadhich
 location    : Jaipur, India 🇮🇳
-company     : Zentix Services (Founder)
+company     : Zentix Services(Developer)
 focus       : AWS Cloud · Data Engineering · Full Stack
 learning    : Solutions Architect Associate (SAA-C03)
 goal        : Data engineering roles — Remote 🌏
